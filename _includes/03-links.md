@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+Follow my Instagram account at [heinnie.g](https://www.instagram.com/heinnie.g/)
