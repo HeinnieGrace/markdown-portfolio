@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![this is a picture a fox](https://www.treehugger.com/thmb/cS1rfABTtUfvvilg7gsZCe-4W4k=/644x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2014__11__silver-and-red-fox-103299c269ff4234871647b1a6991923.jpg)
